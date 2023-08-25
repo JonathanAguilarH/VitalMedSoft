@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VitalLabSoft", "VitalLabSoft.csproj", "{D505DDF7-4253-417C-B1DF-576F602CC686}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x86 = Debug|x86
+		Release|Any CPU = Release|Any CPU
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D505DDF7-4253-417C-B1DF-576F602CC686}.Debug|Any CPU.ActiveCfg = Debug|x86
+		{D505DDF7-4253-417C-B1DF-576F602CC686}.Debug|Any CPU.Build.0 = Debug|x86
+		{D505DDF7-4253-417C-B1DF-576F602CC686}.Debug|x86.ActiveCfg = Debug|x86
+		{D505DDF7-4253-417C-B1DF-576F602CC686}.Debug|x86.Build.0 = Debug|x86
+		{D505DDF7-4253-417C-B1DF-576F602CC686}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D505DDF7-4253-417C-B1DF-576F602CC686}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D505DDF7-4253-417C-B1DF-576F602CC686}.Release|x86.ActiveCfg = Release|x86
+		{D505DDF7-4253-417C-B1DF-576F602CC686}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {69118BEE-6491-40CB-88B9-310B72D3676F}
+	EndGlobalSection
+EndGlobal

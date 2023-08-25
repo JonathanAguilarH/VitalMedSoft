@@ -1,0 +1,221 @@
+﻿++Solución "VitalLabSoft" ‎(1 de 1 proyecto)
+i:{00000000-0000-0000-0000-000000000000}:VitalLabSoft.sln
+++VitalLabSoft
+i:{00000000-0000-0000-0000-000000000000}:VitalLabSoft
+++Connected Services
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\connected services\
+++Properties
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\properties\
+++Referencias
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:
+++AjaxMin
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:
+++AxInterop.ZKFPEngXControl
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:
+++CrystalDecisions.CrystalReports.Engine
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:
+++CrystalDecisions.ReportSource
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:
+++CrystalDecisions.Shared
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:
+++DocumentFormat.OpenXml
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:
+++FontAwesome.Sharp
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:
+++Gma.QrCodeNet.Encoding
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:
+++Gmap.net
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:
+++Interop.ZKFPEngXControl
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:
+++libzkfpcsharp
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:
+++Microsoft.CSharp
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:
+++PresentationCore
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:
+++PresentationFramework
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:
+++SpreadsheetLight
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:
+++stdole
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:
+++System
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:
+++System.Collections.NonGeneric
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:
+++System.Core
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:
+++System.Data
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:
+++System.Data.DataSetExtensions
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:
+++System.Deployment
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:
+++System.Drawing
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:
+++System.Net.Http
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:
+++System.Windows.Forms
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:
+++System.Xaml
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:
+++System.Xml
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:
+++System.Xml.Linq
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:
+++WindowsBase
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:
+++ZKFPEngXControl
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:
+++Logo y formatos
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\logo y formatos\
+++Recursos
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\recursos\
+++Ico
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\recursos\ico\
+++Iconos botones
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\recursos\iconos botones\
+++ImagenesPorDefecto
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\recursos\imagenespordefecto\
+++Resources
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\resources\
+++nuevo_servcio.bmp
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\resources\nuevo_servcio.bmp
+++Apariencia.cs
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\apariencia.cs
+++App.config
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\app.config
+++csPermisos.cs
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\cspermisos.cs
+++ExtraerDato.cs
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\extraerdato.cs
+++FileExplorer.cs
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\fileexplorer.cs
+++frmAgregaDireccion.cs
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\frmagregadireccion.cs
+++frmCalzado.cs
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\frmcalzado.cs
+++frmCargaDesdeExcel.cs
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\frmcargadesdeexcel.cs
+++frmConServidor.cs
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\frmconservidor.cs
+++frmEmpleados.cs
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\frmempleados.cs
+++frmExistenciasProducto.cs
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\frmexistenciasproducto.cs
+++frmGestionProductos.cs
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\frmgestionproductos.cs
+++frmLogin.cs
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\frmlogin.cs
+++frmNivelClientes.cs
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\frmnivelclientes.cs
+++frmSucursales.cs
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\frmsucursales.cs
+++frmUsuarios.cs
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\frmusuarios.cs
+++frmVitalLabSoft.cs
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\frmvitallabsoft.cs
+++frmVitalLabSoft.Designer.cs
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\frmvitallabsoft.designer.cs
+++frmVitalLabSoft.resx
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\frmvitallabsoft.resx
+++packages.config
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\packages.config
+++Program.cs
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\program.cs
+++VitalLabSoft_TemporaryKey.pfx
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\vitallabsoft_temporarykey.pfx
+++AssemblyInfo.cs
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\properties\assemblyinfo.cs
+++Resources.resx
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\properties\resources.resx
+++Settings.settings
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\properties\settings.settings
+++cargaExcel.png
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\logo y formatos\cargaexcel.png
+++Copy of logo-redes-1.png
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\logo y formatos\copy of logo-redes-1.png
+++dextrosol.jpg
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\logo y formatos\dextrosol.jpg
+++ExcelPlantilla.png
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\logo y formatos\excelplantilla.png
+++Fondo Principal.png
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\logo y formatos\fondo principal.png
+++IMG_1049.PNG
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\logo y formatos\img_1049.png
+++QrDextrosol.PNG
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\logo y formatos\qrdextrosol.png
+++Sin imagen.jpg
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\logo y formatos\sin imagen.jpg
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\recursos\imagenespordefecto\sin imagen.jpg
+++tapizfondo.png
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\logo y formatos\tapizfondo.png
+++VitalLab copia.png
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\logo y formatos\vitallab copia.png
+++VitalLabConFondo.png
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\logo y formatos\vitallabconfondo.png
+++16x16
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\recursos\ico\16x16\
+++agregar servicio.png
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\recursos\iconos botones\agregar servicio.png
+++btnCerrar.png
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\recursos\iconos botones\btncerrar.png
+++btnMinimizar.png
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\recursos\iconos botones\btnminimizar.png
+++Servicio nuevo.png
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\recursos\iconos botones\servicio nuevo.png
+++servicio_nuevo.png
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\recursos\iconos botones\servicio_nuevo.png
+++frmAgregaDireccion.Designer.cs
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\frmagregadireccion.designer.cs
+++frmAgregaDireccion.resx
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\frmagregadireccion.resx
+++frmCalzado.Designer.cs
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\frmcalzado.designer.cs
+++frmCalzado.resx
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\frmcalzado.resx
+++frmCargaDesdeExcel.Designer.cs
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\frmcargadesdeexcel.designer.cs
+++frmCargaDesdeExcel.resx
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\frmcargadesdeexcel.resx
+++frmConServidor.Designer.cs
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\frmconservidor.designer.cs
+++frmConServidor.resx
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\frmconservidor.resx
+++frmEmpleados.Designer.cs
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\frmempleados.designer.cs
+++frmEmpleados.resx
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\frmempleados.resx
+++frmExistenciasProducto.Designer.cs
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\frmexistenciasproducto.designer.cs
+++frmExistenciasProducto.resx
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\frmexistenciasproducto.resx
+++frmGestionProductos.Designer.cs
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\frmgestionproductos.designer.cs
+++frmGestionProductos.resx
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\frmgestionproductos.resx
+++frmLogin.Designer.cs
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\frmlogin.designer.cs
+++frmLogin.resx
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\frmlogin.resx
+++frmNivelClientes.Designer.cs
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\frmnivelclientes.designer.cs
+++frmNivelClientes.resx
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\frmnivelclientes.resx
+++frmSucursales.Designer.cs
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\frmsucursales.designer.cs
+++frmSucursales.resx
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\frmsucursales.resx
+++frmUsuarios.Designer.cs
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\frmusuarios.designer.cs
+++frmUsuarios.resx
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\frmusuarios.resx
+++Resources.Designer.cs
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\properties\resources.designer.cs
+++Settings.Designer.cs
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\properties\settings.designer.cs
+++64.png
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\recursos\ico\16x16\64.png
+++65.png
+i:{d505ddf7-4253-417c-b1df-576f602cc686}:c:\users\jon_a\onedrive\github\vitallabsoft\recursos\ico\16x16\65.png

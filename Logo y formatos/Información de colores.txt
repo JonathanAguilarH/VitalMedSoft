@@ -1,0 +1,7 @@
+27, 27, 84
+196, 34, 75
+
+Color.FromArgb(((int)(((byte)(27)))), ((int)(((byte)(27)))), ((int)(((byte)(84)))));
+Color.FromArgb(((int)(((byte)(196)))), ((int)(((byte)(34)))), ((int)(((byte)(75)))));
+
+Color.FromArgb(((int)(((byte)(238)))), ((int)(((byte)(66)))), ((int)(((byte)(104)))));

@@ -1,0 +1,12 @@
+BD
+
+Clientes
+- Nombre
+- Dirección
+	- Referencias
+	- Ubicación (Deseable)
+- Teléfono
+
+Calzado
+- Marca
+- Gama
